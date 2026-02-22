@@ -54,7 +54,7 @@ const Problem = () => {
             </li>
             <li className="flex items-start text-lg gap-3">
               <span className="text-indigo-500 text-2xl"><RiCopyleftFill /></span>
-              Assets locked forever after death or inactivity
+              Assets locked forever after death or inactivity?
             </li>
           </ul>
         </motion.div>
